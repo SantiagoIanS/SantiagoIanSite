@@ -1,7 +1,7 @@
 body, html {
     font-family: 'Lucida Sans';
-    background-color: #fff1e6;
-    color: #cb997e;
+    background-color: #495057;
+    color: #f8f9fa;
     height: 100%;
     width: 100%;
     margin: 0;
@@ -11,7 +11,7 @@ body, html {
 
 .tabs-container {
     width: 100%;
-    background-color: #cb997e;
+    background-color: #343a40;
     display: flex;
     justify-content: space-around;
     padding: 10px 0;
@@ -20,7 +20,8 @@ body, html {
 
 .tab {
     font-size: 18px;
-    background-color: antiquewhite;
+    background-color: #6c757d;
+    color: #f8f9fa;
     text-decoration: none;
     padding: 10px 20px;
     border-radius: 5px;
@@ -28,10 +29,10 @@ body, html {
     border: 2px solid black;
 }
 
-.Nome {
+.banner {
     width: 100%;
-    height: 500px;
-    background-color: #002642;
+    height: 300px;
+    background-color: #212529;
     display: flex;
     justify-content: center;
     align-items: center;
